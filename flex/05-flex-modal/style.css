@@ -64,3 +64,30 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+
+/* SOL */
+
+.modal{
+  display: flex;
+  padding: 16px;
+}
+.icon{
+  flex-shrink: 0;
+  margin-right: 16px;
+}
+.content{
+  flex-direction: column;
+}
+.content-title{
+  display: flex;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.header{
+  flex: 1;
+}
+.text{
+  margin-bottom: 16px;
+}

@@ -12,6 +12,25 @@ img {
   font-weight: 900;
 }
 
+/* SOL */
+.con{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.title{
+  text-align: center;
+  margin: auto;
+  margin-bottom: 32px;
+}
+
+.fruitOne, .fruitTwo, .fruitThree, .fruitFour{
+  text-align: center;
+  max-width: 200px;
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
